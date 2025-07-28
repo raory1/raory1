@@ -5,7 +5,7 @@
   Hello world, I'm Isabella! 👋
 </h1>
 <p align="left">a front-end software developer</p>
-<p align="left">🌱 I’m currently learning <strong>React</strong></p>
+<p align="left">🌱 I’m currently learning <strong>React</strong> and <strong>TypeScript</strong></p>
 
 <h2 align="left">How to reach me: </h2>
 <div align="center">
