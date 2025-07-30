@@ -1,6 +1,5 @@
 
 
-<img align="right" height="200" src="https://miro.medium.com/v2/resize:fit:700/1*krJsZsRUsIz3kCEW8VaC0A.gif"  />
 <h1 align="left">
   Hello world, I'm Isabella! 👋
 </h1>
